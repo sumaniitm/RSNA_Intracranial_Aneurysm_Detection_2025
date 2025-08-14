@@ -1,4 +1,3 @@
-# RSNA_Intracranial_Aneurysm_Detection_2025
-RSNA Intracranial Aneurysm Detection - Kaggle Competition
-
+# RSNA Intracranial Aneurysm Detection
+## Kaggle Competition URL
 https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/data
